@@ -1,0 +1,15 @@
+ls= list
+cd documents
+ls
+cd curso_programacion
+ls
+touch index.html
+code .
+git status
+git add index.html
+git status
+git commit -m "este es ni primer commit"
+autor
+git log
+git remote -v
+git push origin main git pull origin main
